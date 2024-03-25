@@ -17,7 +17,7 @@ The dataset is structured into four primary CSV files, each offering a deep dive
 
 The dataset is available for download and exploration on Kaggle at the following link:
 
-[VNL 2021-2023 Dataset on Kaggle]([https://www.kaggle.com/datasets/zakirpasha/vnl-21-23](https://www.kaggle.com/datasets/zakirpasha/the-2021-2023-vnl-player-dataset?rvi=1))
+[VNL 2021-2023 Dataset on Kaggle]([https://www.kaggle.com/datasets/zakirpasha/vnl-21-23])
 
 ## Methodology
 
