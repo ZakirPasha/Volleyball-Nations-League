@@ -32,5 +32,5 @@ This project involved sophisticated web scraping techniques to extract HTML and 
 - **Country IDs**: Each team's data was accessed via unique country IDs in the URL, which changed annually. A systematic approach was developed to loop through each team's data per year based on these IDs.
 - **Player Age Discrepancies**: The age data was only accurate for 2023; thus, a function was implemented to deduce the correct age for players in 2021 and 2022.
 - **Player Height**: All height data when first uploaded contained 'cm'. This was removed to make aggregation easier.
-- **Understanding Attemps (Attack, Block, Serve, etc.)**: Points, Errors and Attempts are all calculated separately. If total attempts for a player needed to be calculated, a sum of attempts, errors, and points would need to be done.
+- **Understanding Attempts (Attack, Block, Serve, etc.)**: Points, Errors and Attempts are all calculated separately. If total attempts for a player needed to be calculated, a sum of attempts, errors, and points would need to be done.
 - **Dynamic Data Extraction**: While BeautifulSoup efficiently handled static roster data, the dynamic nature of individual player statistics required the use of Selenium. This was particularly challenging for extracting match-by-match performance stats, necessitating a loop through each player and year for each statistic category.
